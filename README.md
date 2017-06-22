@@ -12,7 +12,7 @@ website and API for a used car dealership. This API must have the following endp
 The front end must have the following functionality:
 * As a user, when I navigate to the home page, I can see a list of all the
   cars.
-* As a user, when I am on the home page, there is a button I can click that will take me to `/add`, which contains a form that I can fill out to add a new vehicle.
+* As a user, when I am on the home page, there is a anchor tag I can click that will take me to `/add`, which contains a form that I can fill out to add a new vehicle.
 
 ### Stretch Goals
 * Add an endpoint that can get all vehicles by make
